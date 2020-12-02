@@ -36,5 +36,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amaury-v-0b05bb8a/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maxime-minta-3067ba187" height="30" width="30" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amaury-v-0b05bb8a" height="30" width="30" /></a>
+ <a href="mailto:info@amaury.tech">Email me<a/>
 </p>
