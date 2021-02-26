@@ -20,7 +20,7 @@
  <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="javascript" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/> 
- <img src="https://cledara-public.s3.eu-west-2.amazonaws.com/logo-mongodb.png" alt="mongodb" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
