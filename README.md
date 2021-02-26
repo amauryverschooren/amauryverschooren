@@ -22,7 +22,7 @@
  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/> 
  <img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+ <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="nodejs" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  </p><p>&nbsp;</p>
