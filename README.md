@@ -23,8 +23,8 @@
  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/> 
  <img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="40" height="40"/> 
  <img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="nodejs" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+ <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG61.png" alt="photoshop" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
  </p><p>&nbsp;</p>
   
 ## 📈 My Github stats
