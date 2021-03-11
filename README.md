@@ -6,6 +6,7 @@
 - I'm a <a href="https://github.com/home-assistant" target="blank">Home Assistant</a> enthousiast.
 - love tinkering and designing DIY projects
 - Always up-to-date with the latest gadgets and technologies
+- Currently working on a DIY outdoor weather station with <a href="https://github.com/Lora-net" target="blank">LoRa</a> Technology
 
 ## 👨‍💻 Some technologies i'm common with
 
