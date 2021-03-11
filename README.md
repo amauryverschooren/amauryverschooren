@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amauryverschooren" alt="amauryverschooren" /> </p>
 
-## 👨‍💻 Technologies i'm common with
+- I'm a <a href="https://github.com/home-assistant" target="blank">Home Assistant</a> enthousiast.
+- love tinkering and designing DIY projects
+- Always up-to-date with the latest gadgets and technologies
+
+## 👨‍💻 Some technologies i'm common with
 
 <p align="left">
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angularjs" width="40" height="40"/> 
@@ -28,7 +32,7 @@
  </p><p>&nbsp;</p>
   
 ## 📈 My Github stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amauryverschooren&show_icons=true&theme=dark%22" alt="amauryverschooren" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amauryverschooren&show_icons=true&theme=tokyonight" alt="amauryverschooren" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauryverschooren&theme=dark&layout=compact" />
 
 ## 🗣 have a question? Shoot!
