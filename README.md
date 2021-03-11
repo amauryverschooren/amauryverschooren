@@ -33,12 +33,12 @@
   
 ## 📈 My Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amauryverschooren&show_icons=true&theme=tokyonight" alt="amauryverschooren" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauryverschooren&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauryverschooren&layout=compact&theme=yokyonight" />
 
 ## 🗣 have a question? Shoot!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amaury-v-0b05bb8a/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amaury-v-0b05bb8a" height="30" width="30" /></a>
+<img align="center" src="https://www.siggis.be/wp-content/uploads/2018/01/Linkedin-logo-1-550x550-300x300.png" alt="amaury-v-0b05bb8a" height="30" width="30" /></a>
  <a href="mailto:info@amaury.tech">Email me<a/>
 </p>
