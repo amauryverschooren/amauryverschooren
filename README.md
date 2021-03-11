@@ -33,7 +33,7 @@
   
 ## 📈 My Github stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amauryverschooren&show_icons=true&theme=tokyonight" alt="amauryverschooren" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauryverschooren&layout=compact&theme=yokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amauryverschooren&layout=compact&theme=tokyonight" />
 
 ## 🗣 have a question? Shoot!
 
