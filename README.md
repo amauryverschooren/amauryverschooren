@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amaury Verschooren</h1>
 <h3 align="center">Studying ICT & Electronics @ <a href="https://www.ap.be/" target="blank">AP University college</a></h3>
-<h2 align="center">Intern Full-stack developer @ <a href="https://www.euri.com/" target="blank">Euricom</a></h2>
+<h4 align="center">Intern Full-stack developer @ <a href="https://www.euri.com/" target="blank">Euricom</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amauryverschooren" alt="amauryverschooren" /> </p>
 
