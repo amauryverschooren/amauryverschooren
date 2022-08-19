@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Amaury Verschooren</h1>
-<h3 align="center">SSystem Engineer @ <a href="https://www.ap.be/" target="blank">AP University college</a></h3>
-<h4 align="center">Intern Full-stack developer @ <a href="https://www.axxes.com/" target="blank">Axxes</a></h4>
+<h3 align="center">System Engineer @ <a href="https://www.axxes.com/" target="blank">Axxes</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amauryverschooren" alt="amauryverschooren" /> </p>
 
